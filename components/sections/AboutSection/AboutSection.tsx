@@ -1,4 +1,4 @@
-import { FIRST_NAME, LAST_NAME, YEAR_OF_EXPERIENCE } from "@/lib/static-data";
+import { FIRST_NAME, LAST_NAME, PROFILE_PICTURE_PATH, YEAR_OF_EXPERIENCE } from "@/lib/static-data";
 import Image from "next/image";
 import React from "react";
 
@@ -22,7 +22,7 @@ const AboutSection = () => {
       </article>
       <Image
         className="rounded-full h-[170px] w-[170px] sm:w-[200px] sm:h-[200px]"
-        src="/images/me.png"
+        src={PROFILE_PICTURE_PATH}
         alt={`${FIRST_NAME} ${LAST_NAME} - Full-stack Developer`}
         loading="lazy"
         width={100}

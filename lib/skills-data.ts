@@ -4,6 +4,10 @@ export const skills = [
     logo: "javascript.svg",
   },
   {
+    skill: "Typescript",
+    logo: "typescript.svg",
+  },
+  {
     skill: "HTML",
     logo: "html.svg",
   },

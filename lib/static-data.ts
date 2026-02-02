@@ -1,7 +1,7 @@
 export const MOBILE_DISPLAY = "+63 946 9572 178";
 export const MOBILE_LINK = "";
-export const EMAIL_ADDRESS_DISPLAY = "dogomeo5794@gmail.com";
-export const EMAIL_ADDRESS_LINK = "mailto:dogomeo5794@gmail.com";
+export const EMAIL_ADDRESS_DISPLAY = "ronald.dogomeo.dev@gmail.com";
+export const EMAIL_ADDRESS_LINK = "mailto:ronald.dogomeo.dev@gmail.com";
 export const INSTAGRAM_LINK = "https://www.instagram.com/rdogomeo";
 export const INSTAGRAM_DISPLAY = "/rdogomeo";
 export const LINKEDIN_LINK = "https://www.linkedin.com/in/ronald-dogomeo/";
@@ -16,9 +16,11 @@ export const JOBSTREET_DISPLAY = "/ronald-dogomeo-vsF5zVcNQ9";
 export const FIRST_NAME = "Ronald";
 export const MIDDLE_NAME = "Recibido";
 export const LAST_NAME = "Dogomeo";
-export const YEAR_OF_EXPERIENCE = "3+";
+export const YEAR_OF_EXPERIENCE = "6+";
 export const LINE_OF_CODES = "Million";
 export const CUP_OF_COFFEE = "3-5";
 export const RESUME_URL = "/files/ronald-dogomeo-resume.pdf";
 
-export const GITHUB_PORTFOLIO_THEME = "https://github.com/dogomeo5794/portfolio"
+export const PROFILE_PICTURE_PATH = "/images/me.jpg";
+
+export const GITHUB_PORTFOLIO_THEME = "https://github.com/dogomeo5794/portfolio";

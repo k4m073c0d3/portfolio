@@ -1,5 +1,60 @@
 export const jobs = [
   {
+    id: "asbir-tech-inc",
+    jobPicture: "asbir-tech/asbir-tech-logo.jpg",
+    jobColor: "#fc6501",
+    jobTitle: "Software Engineer",
+    jobTime: "May 2024 - Present",
+    jobCompany: "Asbir Tech, Inc.",
+    jobCompanySite: "https://asbir.tech",
+    jobDescription:
+      "I am a software engineer with strong experience in API development and management using Laravel 12, along with database design and migrations in MySQL. I also develop real-time multiplayer servers using Colyseus (Node.js) and create interactive venue seat designers leveraging D3.js and SVG.js to deliver dynamic, data-driven user experiences.",
+    jobActivities: [
+      "API development and management with Laravel 12",
+      "Database design and migration with MySQL",
+      "Develop multiplayer server using colyseus (NodeJS)",
+      "Develop venue seats designer using d3js and SVG.js",
+    ],
+    jobTechnologies: [
+      {
+        name: "JavaScript",
+        icon: "icons/javascript.svg",
+      },
+      {
+        name: "Typescript",
+        icon: "icons/typescript.svg",
+      },
+      {
+        name: "ReactJS",
+        icon: "icons/react.svg",
+      },
+      {
+        name: "NodeJS",
+        icon: "icons/node.svg",
+      },
+      {
+        name: "MySQL",
+        icon: "icons/mysql.svg",
+      },
+      {
+        name: "Git",
+        icon: "icons/git.svg",
+      },
+      {
+        name: "PHP",
+        icon: "icons/php.svg",
+      },
+      {
+        name: "Laravel",
+        icon: "icons/laravel-2.svg",
+      },
+      {
+        name: "Colyseus",
+        icon: "images/logo/colyseus.png",
+      },
+    ],
+  },
+  {
     id: "telcom-live-content-inc",
     jobPicture: "telcom/telcom-2.png",
     jobColor: "#0086eb",
