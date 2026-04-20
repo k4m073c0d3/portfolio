@@ -8,8 +8,8 @@ export const LINKEDIN_LINK = "https://www.linkedin.com/in/ronald-dogomeo/";
 export const LINKEDIN_DISPLAY = "/in/ronald-dogomeo/";
 export const TIKTOK_LINK = "https://www.tiktok.com/@ronalddogomeo";
 export const TIKTOK_DISPLAY = "/@ronalddogomeo";
-export const GITHUB_LINK = "https://github.com/dogomeo5794";
-export const GITHUB_DISPLAY = "/dogomeo5794";
+export const GITHUB_LINK = "https://github.com/k4m073c0d3";
+export const GITHUB_DISPLAY = "/k4m073c0d3";
 export const JOBSTREET_LINK = "https://www.jobstreet.com.ph/profile/ronald-dogomeo-vsF5zVcNQ9";
 export const JOBSTREET_DISPLAY = "/ronald-dogomeo-vsF5zVcNQ9";
 
@@ -23,4 +23,4 @@ export const RESUME_URL = "/files/ronald-dogomeo-resume.pdf";
 
 export const PROFILE_PICTURE_PATH = "/images/me.jpg";
 
-export const GITHUB_PORTFOLIO_THEME = "https://github.com/dogomeo5794/portfolio";
+export const GITHUB_PORTFOLIO_THEME = "https://github.com/k4m073c0d3/portfolio";
